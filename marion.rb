@@ -4,3 +4,4 @@ string.gsub!(/\s+/, "")
 string.downcase!
 string_reverse = string.reverse
 puts string == string_reverse
+#added this comment
